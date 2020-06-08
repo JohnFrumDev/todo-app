@@ -1,0 +1,9 @@
+.todo-list .list-group-item {
+    padding: .25rem, .75rem;
+}
+
+.todo-list .btns {
+    width: auto;
+    flex-grow: 1;
+    margin-right: 3px;
+  }
